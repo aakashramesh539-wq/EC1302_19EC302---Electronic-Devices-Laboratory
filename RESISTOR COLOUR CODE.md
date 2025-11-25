@@ -30,24 +30,34 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 
 
 ## Table 2-2
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/ad1f8289-f36f-4fa3-81e9-a1e114d01cdd" />
 
 ## Table 2-3
+<img width="1280" height="645" alt="image" src="https://github.com/user-attachments/assets/f826c7b6-0129-4d6d-a7d4-be778581fbe3" />
 
 ## Table 2-4
+<img width="1280" height="673" alt="image" src="https://github.com/user-attachments/assets/65c609a8-2e82-46c1-8f2f-154256ff4743" />
 
 ## Table 2-5
+<img width="1280" height="553" alt="image" src="https://github.com/user-attachments/assets/f01d29a7-f04a-4fe8-b69f-09f7f91f07bf" />
 
 ## Table 2-6
+<img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/ec62a132-5eb2-4d50-a4d3-636b2f818610" />
 
 ## Table 2-7
+<img width="1280" height="759" alt="image" src="https://github.com/user-attachments/assets/ebfa8063-4cfe-4ddb-b3cd-f94f370b5a7b" />
 
 ## Table 2-8
+<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/e74d8768-3efb-40e0-bc44-855c95d5cf7c" />
 
 ## Table 2-9
+<img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/bd655d94-4513-432b-82e6-e4950f7af957" />
 
 ## Table 2-10
+<img width="1280" height="584" alt="image" src="https://github.com/user-attachments/assets/657d1088-3fc0-4390-98d7-5bd7eb39bf76" />
 
 ## Table 2-11
+<img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/4f228c81-5aad-4e7a-8ddb-476d1f6bfffc" />
 
 ## 2.	Record resistor colors gave to its value in below :
 ## i) 4.7 KΩ ± 5%  
@@ -62,6 +72,7 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 
 ## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
 
+<img width="767" height="1280" alt="image" src="https://github.com/user-attachments/assets/801c2d9a-3dc1-4434-9da6-07a8604658ce" />
 
 ## RESULT:
  Thus the resistor value and tolerance of the provided resistors were calculated successfully.
